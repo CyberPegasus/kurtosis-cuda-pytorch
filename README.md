@@ -34,3 +34,8 @@ Original pytorch-form code as follow:
       return kurtosis
      
 ```
+CUDA Operator realization:
+
+```C++
+To be continued.
+```
